@@ -1,0 +1,16 @@
+{
+    "name": "dangsyhao/wp_private_plugins",
+    "description": "Save My Plugins",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/dangsyhao/wp_private_plugins",
+    "authors": [
+        {
+            "name": "Dang Sy Hao",
+            "homepage": "https://github.com/dangsyhao"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
+}
